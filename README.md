@@ -21,7 +21,7 @@
 
 - 💼 I'm currently working on: **💻 some DE projects from kdnuggets and a more atractive portfolio on Github**
 - 🌱 I'm currently learning: **📚 Docker, Spark, AWS, GO, MongoDB**
-- 💬 Ask me about: **💡 MySQL, PostgreSQL**
+- 💬 Ask me about: **💡 MySQL, PostgreSQL, OpenAI, Anon, Perplexity**
 - ⚡ Fun fact: **🎢**
 
  **<h3 align="left">Skills</h3>**
