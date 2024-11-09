@@ -39,7 +39,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dammi01&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
-<a href="https://app.daily.dev/michaeldambock"><img src="https://api.daily.dev/devcards/v2/e9AzFlB3YAMqDe5UsJwyt.png?type=default&r=dd8" width="356" alt="Michael Dambock's Dev Card"/></a>
+<a href="https://app.daily.dev/michaeldambock"><img src="./devcard.png" width="356" alt="Michael Dambock's Dev Card"/></a>
 
  **<h3 align="left">Support Me</h3>**
 
