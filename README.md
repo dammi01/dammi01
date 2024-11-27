@@ -41,6 +41,19 @@
 
 <a href="https://app.daily.dev/michaeldambock"><img src="./devcard.png" width="356" alt="Michael Dambock's Dev Card"/></a>
 
+**<h3 align="left">My Kaggle Achievements</h3>**
+# My Kaggle Achievements
+
+Here are my Kaggle badges that showcase my achievements in GenAI, data science competitions, datasets, and notebooks.
+
+![Kaggle Badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F163e0f27360ae958da99dde2a68f7e00%2FBadge-46.svg?generation=1727468408101916&alt=media)
+![Kaggle Badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media)
+![Kaggle Badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&alt=media)
+![Kaggle Badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F0b96fc543a2faf02467b3dcd5833feff%2FBadge-45.svg?generation=1727468334875991&alt=media)
+![Kaggle GenAI Course Badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F304806%2F1677a9768c3edb109351613acb6f8673%2FBadge-57.svg?generation=1731369061704923&alt=media)
+
+These badges indicate my progress and rankings on Kaggle, a platform for data science competitions and collaborative projects.
+
  **<h3 align="left">Support Me</h3>**
 
 <p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
