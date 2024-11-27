@@ -41,7 +41,6 @@
 
 <a href="https://app.daily.dev/michaeldambock"><img src="./devcard.png" width="356" alt="Michael Dambock's Dev Card"/></a>
 
-**<h3 align="left">My Kaggle Achievements</h3>**
 # My Kaggle Achievements
 
 Here are my Kaggle badges that showcase my achievements in GenAI, data science competitions, datasets, and notebooks.
