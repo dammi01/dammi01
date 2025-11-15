@@ -22,7 +22,7 @@
 - 💼 I'm currently working on: **💻 some DE projects from KDnuggets, Substack and a more atractive portfolio on Github**
 - 🌱 I'm currently learning: **📚 Databricks, Spark, Snowflake**
 - 💬 Ask me about: **💡 DuckDB, PostgreSQL, OpenAI, Gemini, Anon, Perplexity, Mistral**
-- ⚡ Fun fact: **🎢**
+- ⚡ Fun fact: **🎢 You can get a life garantee for a product but there's no garantee for your life**
 
  **<h3 align="left">Skills</h3>**
 
