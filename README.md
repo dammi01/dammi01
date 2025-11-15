@@ -19,9 +19,9 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 some DE projects from kdnuggets and a more atractive portfolio on Github**
-- 🌱 I'm currently learning: **📚 Docker, Spark, AWS, GO, MongoDB**
-- 💬 Ask me about: **💡 MySQL, PostgreSQL, OpenAI, Anon, Perplexity**
+- 💼 I'm currently working on: **💻 some DE projects from KDnuggets, Substack and a more atractive portfolio on Github**
+- 🌱 I'm currently learning: **📚 Databricks, Spark, Snowflake**
+- 💬 Ask me about: **💡 DuckDB, PostgreSQL, OpenAI, Gemini, Anon, Perplexity, Mistral**
 - ⚡ Fun fact: **🎢**
 
  **<h3 align="left">Skills</h3>**
