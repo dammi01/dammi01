@@ -43,4 +43,5 @@ I treat these technologies as precision parts within a larger data product.
 ### 🤝 Let's Build Something Scalable
 [LinkedIn](https://www.linkedin.com/in/michael-dambock) | [Portfolio Website](https://dammi01.github.io/Homepage/)
 
+![Profile views](https://komarev.com/ghpvc/?username=dammi01&label=Profile%20views&color=0e75b6&style=flat)
 ---
